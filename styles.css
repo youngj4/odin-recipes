@@ -5,17 +5,29 @@
 
 .heading {
     text-align: center;
+    color: black;
+    font-weight: bold
+}
+
+.subheading {
+    text-align: left;
+    background-color: white;
     color: black
 }
 
-.details {
+.description {
     text-align: center;
     color: white
+}
+
+.details {
+    text-align: left;
+    color: black
 }
 
 #image {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%
+    width: 25%
 }
