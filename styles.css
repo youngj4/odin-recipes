@@ -1,0 +1,21 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: lightslategray
+}
+
+.heading {
+    text-align: center;
+    color: black
+}
+
+.details {
+    text-align: center;
+    color: white
+}
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
